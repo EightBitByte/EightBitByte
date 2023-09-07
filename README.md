@@ -1,8 +1,8 @@
 ### Welcome to my GitHub!
 
-- 🔭 I’m currently working on a website for [Saddleback Community College Cybersecurity](https://github.com/EightBitByte/SCC-SaddlebackCyberClub)
+- 🔭 I’m currently working on: a website for [Saddleback Community College Cybersecurity](https://github.com/EightBitByte/SCC-SaddlebackCyberClub)
 - 📫 How to reach me: through my email at jacob.anthony.moy@gmail.com
-- My website: [jacobmoy.com](https://www.jacobmoy.com)
+- :smiley: My website: [jacobmoy.com](https://www.jacobmoy.com)
 
 <!--
 **EightBitByte/EightBitByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
