@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 
-- 🔭 I’m currently working on: a website for [Saddleback Community College Cybersecurity](https://github.com/EightBitByte/SCC-SaddlebackCyberClub)
-- 📫 How to reach me: through my email at jacob.anthony.moy@gmail.com
+- 🔭 I’m currently working on my personal portfolio website!
+- 📫 How to reach me: email me at [jacob.anthony.moy@gmail.com](mailto:jacob.anthony.moy@gmail.com)
 - 😃 My website: [jacobmoy.com](https://www.jacobmoy.com)
 
 <!--
