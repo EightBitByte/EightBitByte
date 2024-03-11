@@ -2,8 +2,8 @@
 
 Hello, hello! I'm Jacob Moy, an undergraduate computer science student at the University of California, Irvine. My interests include coding (obviously), video games, art/design, fitness, cooking, and Christ. Please do not hesitate to reach out to me; <b>I'm always looking for new projects and experiences!</b>
 
-✨ I’m currently working on my personal portfolio website!<br>
-💪 I’m currently learning Javascript, React, and Framer Motion.<br>
+✨ I’m currently working on a quiz for Disco Elysium, built with Next.js!<br>
+💪 I’m currently learning Next.js.<br>
 😌 Check out my website: [jacobmoy.com](https://www.jacobmoy.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/apixelatedpug/)
