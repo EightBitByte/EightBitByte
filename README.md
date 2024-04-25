@@ -1,4 +1,4 @@
-![Github header for Jacob Moy](https://jacobmoy.com/assets/gh-header.png)
+![Jacob Moy's Github Header](https://www.jacobmoy.com/assets/gh-header.png)
 
 Hello, hello! I'm Jacob Moy, an undergraduate computer science student at the University of California, Irvine. My interests include coding (obviously), video games, art/design, fitness, cooking, and Christ. Please do not hesitate to reach out to me; <b>I'm always looking for new projects and experiences!</b>
 
