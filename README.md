@@ -2,7 +2,7 @@
 
 Hello, hello! I'm Jacob Moy, an undergraduate computer science student at the University of California, Irvine. My interests include coding (obviously), video games, art/design, fitness, cooking, and Christ. Please do not hesitate to reach out to me; <b>I'm always looking for new projects and experiences!</b>
 
-✨ I’m currently working on something!<br>
+✨ I’m currently working on [In The Backrooms](https://www.github.com/EightBitByte/project-backrooms)!<br>
 💪 I’m currently learning Godot and modern web dev.<br>
 😌 Check out my website: [jacobmoy.com](https://www.jacobmoy.com)
 
