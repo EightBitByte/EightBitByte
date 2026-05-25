@@ -1,3 +1,7 @@
-Hello, hello! I'm Jacob Moy, an undergraduate computer science student at the University of California, Irvine. My interests include coding (obviously), video games, art/design, fitness, cooking, and Christ. Please do not hesitate to reach out to me; <b>I'm always looking for new projects and experiences!</b>
+Heyo! I'm Jacob. I'm a full-stack web developer, Christian, weightlifter, and amateur 3D modeller/printer enthusiast. I'm also new grad from UC Irvine, with a B.S. in Computer Science.
 
-😌 Check out my website for more cool info: [jacobmoy.com](https://www.jacobmoy.com)
+Check out some of my projects, my website, or my blog.
+
+---
+
+[Blog](https://www.jacobmoy.com/blog) • [Website](https://jacobmoy.com)
