@@ -5,3 +5,5 @@ Check out some of my projects, my website, or my blog.
 ---
 
 [Blog](https://www.jacobmoy.com/blog) • [Website](https://jacobmoy.com)
+
+<sub> <-- p.s. this is boomer, my dachshund :) </sub>
